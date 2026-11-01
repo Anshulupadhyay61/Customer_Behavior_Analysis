@@ -41,6 +41,9 @@ The primary objective is to identify meaningful patterns in customer spending, p
 
 ## 🔄 Project Workflow
 
+<img width="1672" height="941" alt="Project Workflow Infographic (1)" src="https://github.com/user-attachments/assets/765520e6-d776-40b6-b4c5-5217826fde73" />
+
+
 The project follows a structured, seven-step data analytics workflow:
 
 ### 01. Business Problem Statement
